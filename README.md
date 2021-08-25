@@ -1,7 +1,7 @@
 # ESP32 1W E22-400M30S / E22-900M30S
 ESP32-based EBYTE E22-400M30S / E22-900M30S compatible 1 Watt board
 
-https://github.com/HarmvandenBrink/ESP32-1W-E22-EBYTE/blob/master/gs.png?raw=true
+![Board design in KiCAD](https://github.com/HarmvandenBrink/ESP32-1W-E22-EBYTE/blob/master/gs.png?raw=true)
 
 KiCAD
 
