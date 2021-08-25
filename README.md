@@ -3,7 +3,7 @@ ESP32-based EBYTE E22-400M30S / E22-900M30S compatible 1 Watt board
 
 ![Board design in KiCAD](https://github.com/HarmvandenBrink/ESP32-1W-E22-EBYTE/blob/master/gs.png?raw=true)
 
-KiCAD
+Forked the design, changed it to KiCAD.
 
 ## Features:
 * Fully compatible with https://github.com/G4lile0/ESP32-OLED-Fossa-GroundStation
