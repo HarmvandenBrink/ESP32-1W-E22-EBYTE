@@ -14,3 +14,4 @@ ESP32-based EBYTE E22-400M30S / E22-900M30S compatible 1 Watt board
 * On-board USB/UART convertor
 
 
+Forked from https://github.com/jgromes/ESP32-1W-GroundStation
